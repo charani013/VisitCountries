@@ -1,0 +1,35 @@
+.visited-list {
+  background-color: #1f1f2f;
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-right: 8px;
+  border-radius: 8px;
+}
+
+.image {
+  height: 150px;
+}
+
+.container-row-countries {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.paragraph-countries {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.remove-button {
+  background-color: transparent;
+  border: 1px solid #94a3b8;
+  font-family: 'Roboto';
+  color: #cbd5e1;
+  padding: 4px;
+  border-radius: 8px;
+  font-size: 12px;
+  width: 100px;
+  cursor: pointer;
+  outline: none;
+}
